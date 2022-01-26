@@ -1,12 +1,16 @@
+![cover image](https://raw.githubusercontent.com/fromaline/twitter-snippets/master/assets/cover.png)
+
+<br>
+
 <h1 align="center">
-  <br>
   Twitter Snippets
-  <br>
 </h1>
+
 
 #### The project contains snippets from [fromaline's twitter profile](https://twitter.com/fromaline).
 
----
+<br>
+
 
 | Directory | Link to tweet |
 |:-:|:-:|

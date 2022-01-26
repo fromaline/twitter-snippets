@@ -1,3 +1,5 @@
-# How does React handle user-defined components behind the scenes?
+![cover image](https://pbs.twimg.com/media/FJ4VbdkXMAMlskB?format=png&name=4096x4096)
 
-Find out in [my twitter thread](https://twitter.com/fromaline/status/1485684303891771393).
+<br />
+
+# [How does React handle user-defined components behind the scenes?](https://twitter.com/fromaline/status/1485684303891771393)
